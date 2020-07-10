@@ -27,19 +27,11 @@ There are many different fraud activity like for example
 Of all those mentioned fraud activities this project mainly focus on credit card fraud detection. In recent years it is important that credit card companies are able to identify fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
 
 Tools: IBM Watson (Python Notebook)
-Progeamming Language: Python.
 
-
-
-
-
-
-
-
+Programming Language: Python.
 
 References:
 
 https://www.sas.com/en_us/insights/articles/risk-fraud/fraud-detection-machine-learning.html
-
 https://www.kaggle.com/mlg-ulb/creditcardfraud
 
