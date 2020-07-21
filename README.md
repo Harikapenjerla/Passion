@@ -30,9 +30,21 @@ Tools: IBM Watson (Python Notebook)
 
 Programming Language: Python.
 
+Steps involved in general data related projects are
+
+1. Define Goal or Business Problem.
+2. Get the data.
+3. Clean and explore the data.
+4. Enrich Data.
+5. Build helpful visulaization.
+6. Get modeling/predictive models.
+7. Interpret results.
+8. Iterate/Future Scope.
+
 References:
 
 https://www.sas.com/en_us/insights/articles/risk-fraud/fraud-detection-machine-learning.html
 
 https://www.kaggle.com/mlg-ulb/creditcardfraud
 
+https://blog.dataiku.com/2019/07/04/fundamental-steps-data-project-success
